@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a   href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src=" https://camo.githubusercontent.com/67653846f73c89eb04bfa318c9fddc47d63624217e252471b5e44c3ab0eda3ce" alt="bootstrap" width="40" height="40"/> </a> 
+<p align="left"> <a   href="https://code.visualstudio.com/" rel="nofollow" target="_blank"  > <img src=" https://camo.githubusercontent.com/67653846f73c89eb04bfa318c9fddc47d63624217e252471b5e44c3ab0eda3ce" data-canonical-src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png" alt="Visual Studio " width="40" height="40"/> </a> 
 <p align="left"> <a   href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a  href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a   href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
