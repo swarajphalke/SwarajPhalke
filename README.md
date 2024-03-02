@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Website Development**
 
-- 📫 How to reach me **swarajphalke555@gmail.com**
+- 📫 Mail me on **swarajphalke555@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
